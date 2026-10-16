@@ -43,8 +43,8 @@ I'm exploring both the technical and business sides of cybersecurity — from tr
 ## 🤝 How to Reach Me
 
 - **Location:** Scotland, UK
-- **LinkedIn:** [Add your LinkedIn profile URL here](https://www.linkedin.com/)
-- **Email:** [Add your professional email address here](mailto:your.email@example.com)
+- **LinkedIn:** [https://www.linkedin.com/in/taiwo-dauda?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
+- **Email:** [taiwo.t.dauda@gmail.com]
 
 I'm always happy to connect with fellow cybersecurity enthusiasts, GRC professionals, and people who enjoy learning and sharing knowledge. Let's connect and grow together!
 
